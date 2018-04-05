@@ -1,0 +1,32 @@
+a, a:visited { color:#bf4040; }
+a:hover { color:#8a2626; }
+
+.btn { background-color:#bf4040; }
+.btn:hover { background-color:#a12e2e; }
+
+figure.figure-hover div { background-color:#bf4040; }
+
+.flex-control-paging li a { background:#f67272; }
+.flex-control-paging li a:hover, .flex-control-paging li a.flex-active { background:#bf4040; }
+
+#header .nav-menu ul li a:hover { color:#bf4040; }
+#header .nav-menu ul li.logo .logo-base { background:url(../../images/contents/red/base-logo.png) no-repeat; }
+
+#slider ul li p .btn-link { background:url(../../images/contents/red/base-slider-button.png) repeat; }
+#slider ul li p .btn-link:hover { background:#bf4040 url(../../images/contents/red/base-slider-button.png) repeat; }
+
+#main .works .works-filter li a:hover, #main .works .works-filter li a.active { background-color:#bf4040; }
+
+#main .teams .item .social li a { background-color:#bf4040; }
+#main .teams .item .social li:nth-child(even) a { background-color:#f06c6c; }
+#main .teams .item .social li a:hover { background-color:#3a3a3a; }
+
+#main .testimonials ul li .name { background-color:#bf4040; }
+
+#main .tweets {
+	background-color:#bf4040;
+	color:#ffb9b9;
+	text-shadow:#892c2c;
+}
+#main .tweets .container { background:url(../../images/contents/red/twitter-logo.png) no-repeat center left; }
+#main .tweets a:hover { color:#ffb9b9; }

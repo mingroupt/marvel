@@ -1,0 +1,3 @@
+#slider ul li:first-child, #main .features .flexslider .slides li:first-child, #main .testimonials ul li:first-child, #main .tweets ul li:first-child { display:block; }
+
+.flexslider.loading { background:none; }
